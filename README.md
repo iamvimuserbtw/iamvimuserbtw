@@ -5,7 +5,7 @@
 **Phone:** 0618868127  
 **Email:** julien.boulevart@gmail.com  
 **Nationality:** French / Canadian  
-**LinkedIn:** https://linkedin.com/in/julien-boulevart  
+**LinkedIn:** https://www.linkedin.com/in/julien-boulevart-avril-a9ab3b64/
 **Github:** https://github.com/iamvimuserbtw/  
 **Website:** https://jboulevart.dev  
 
